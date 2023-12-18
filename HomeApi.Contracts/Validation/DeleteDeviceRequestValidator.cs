@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using FluentValidation;
+﻿using FluentValidation;
 using HomeApi.Contracts.Models.Devices;
 
 namespace HomeApi.Contracts.Validation
